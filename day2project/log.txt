@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 commit a7c42255aa8ade196c7695b9d3550a33da29a40c
 Merge: dfab849 c42b7b2
@@ -20,6 +21,8 @@ Date:   Thu Jan 11 09:14:17 2024 -0700
 
     first uat commit
 
+=======
+>>>>>>> main
 commit 884bc77ed9383e6e404df445e70dcda531ebd647
 Author: Evan.Cortez <EVAN.CORTEZ3145@STU.MTEC.EDU>
 Date:   Thu Jan 11 09:05:32 2024 -0700
