@@ -1,0 +1,29 @@
+commit 884bc77ed9383e6e404df445e70dcda531ebd647
+Author: Evan.Cortez <EVAN.CORTEZ3145@STU.MTEC.EDU>
+Date:   Thu Jan 11 09:05:32 2024 -0700
+
+    ignore file
+
+commit 260074e5de794fcaa2cbb5bfd3891990e01e47c5
+Author: Evan.Cortez <EVAN.CORTEZ3145@STU.MTEC.EDU>
+Date:   Tue Jan 9 09:29:41 2024 -0700
+
+    Error fix Tue, Jan  9, 2024  9:29:41 AM
+
+commit f87c00c38a89fe311b44437e0c7d3057b9177091
+Author: Evan.Cortez <EVAN.CORTEZ3145@STU.MTEC.EDU>
+Date:   Tue Jan 9 09:20:49 2024 -0700
+
+    Project Structure Tue, Jan  9, 2024  9:20:49 AM
+
+commit c22446766c0b1c30208ad933fd80dded9b27b234
+Author: Evan.Cortez <EVAN.CORTEZ3145@STU.MTEC.EDU>
+Date:   Tue Jan 9 07:39:15 2024 -0700
+
+    first commit 01/09/2024 07:39:15
+
+commit 5b7ceeb176c59957e0585933db4365b3489d50fb
+Author: evcgit <148818330+evcgit@users.noreply.github.com>
+Date:   Tue Jan 9 07:29:39 2024 -0700
+
+    Initial commit
